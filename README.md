@@ -36,6 +36,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,vscode,github,machile learning" />
-    <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,vscode,github,mongodb,mysql,flask,machile learning" />
+    <br>
 </div>
